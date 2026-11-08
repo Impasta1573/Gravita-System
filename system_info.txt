@@ -32,7 +32,7 @@ Moc
 It’s not as hard to get there as some of the other planets near the black hole, especially being the only one direct around it with it’s own moon Darty, but the surface is full of icky gumbo and mud, even though there is no atmosphere. We are unsure why.
 
 	Darty
-A small asteroid moon that orbits Moc. Not much is known about this little potato world, but there is a chance it may have been captured around Moc in its early days and slowly settled into a relatively circular orbit it has today.
+	A small asteroid moon that orbits Moc. Not much is known about this little potato world, but 		there is a chance it may have been captured around Moc in its early days and slowly settled into 	a relatively circular orbit it has today.
 
 Teel
 Teel is a rouge planet far from any of the other star systems. Nobody knows why it’s there, or how it got there, but scientists found out its orbit takes exactly 1,337 years to complete. When “Leet” got rejected by the IAU, they found a loophole to name it “Teel”, so they could still have it named after some sort of meme.
@@ -55,10 +55,10 @@ OPWA
 It stands for Oversized Planet With Auroras. It’s a large purple exotic planet with lakes and seas of some unknown compound, and a thick atmosphere of the same unknown stuff. It rotates once in just over seventy hours, or a little under three days. Anybody living on this planet must be a long sleeper and must have a long work schedule.
 
 	Minerva
-Minerva is a small asteroid moon sharing a similar orbit with Tideland. It is tidally locked to OPWA, meaning only one side faces the planet. Studies suggest this moon used to be part of another planet before something happened. What happened? We don’t know
+	Minerva is a small asteroid moon sharing a similar orbit with Tideland. It is tidally locked to 	OPWA, meaning only one side faces the planet. Studies suggest this moon used to be part of 			another planet before something happened. What happened? We don’t know
 
 	Tideland
-This tiny potato moon shares a similar orbit with Minerva. However, unlike its neighbor, it is not tidally locked, and spins chaotically. This suggests the moons are not from the same region or era. In fact, Tideland is likely a captured fragment from another solar system many light years away, that wandered here after being ejected a long, long time ago.
+	This tiny potato moon shares a similar orbit with Minerva. However, unlike its neighbor, it is 		not tidally locked, and spins chaotically. This suggests the moons are not from the same region 	or era. In fact, Tideland is likely a captured fragment from another solar system many light 		years away, that wandered here after being ejected a long, long time ago.
 
 Bej
 This minor planet seems out of place. Since there have been no orbits that cross its path so far, this would’ve been a planet if not for its shape, as it actually has a clear path. It’s also tiny, so getting there would be tricky and need precise maneuvers.
@@ -75,13 +75,13 @@ Khloa
 This world is a gas giant with no solid surface. With reddish cloud tops and its ring system, we wouldn’t say it’s as iconic as Saturn’s, but it looks cool! It also has several interesting moons around it, and it spins once in less than 6 hours.
 
 	Nomen
-Nomen is a tiny shepherd moon, that keeps the rings of Khloa stable for long periods of time. This explains why the moon looks orange colored, which is unusual for a moon this size. It’s actually slowly falling into Khloa, just like Phobos is to Mars, and, one day far in the future, will either crash into Khloa or break apart by tidal forces.
+	Nomen is a tiny shepherd moon, that keeps the rings of Khloa stable for long periods of time. 		This explains why the moon looks orange colored, which is unusual for a moon this size. It’s 		actually slowly falling into Khloa, just like Phobos is to Mars, and, one day far in the future, 	will either crash into Khloa or break apart by tidal forces.
 
  	Dracip
-This unusual moon may be small, but it packs quite a thick atmosphere for its size. With green haze covering the entire moon, just like Titan’s around Saturn, nobody knew what the moon looked like until somebody shouted “Hey, let’s turn on Infrared!” and now everyone know’s the surface composition and features and etc.
+	This unusual moon may be small, but it packs quite a thick atmosphere for its size. With green 		haze covering the entire moon, just like Titan’s around Saturn, nobody knew what the moon looked 	like until somebody shouted “Hey, let’s turn on Infrared!” and now everyone know’s the surface 		composition and features and etc.
 
 	Lovell
-Christened after the legendary Jim Lovell (1928-2025), this large moon is useful for capturing around Khloa via gravity assist for cheap. The large mass and lack of an atmosphere makes it hard to land and return from though. Make sure to take a lot of fuel with you.
+	Christened after the legendary Jim Lovell (1928-2025), this large moon is useful for capturing 		around Khloa via gravity assist for cheap. The large mass and lack of an atmosphere makes it 		hard to land and return from though. Make sure to take a lot of fuel with you.
 
 Chimera
 As an eyeball planet, one side of this world is permanently faced towards Nusekaf, hence the extreme deserts. The nightside is locked to being a dark frozen wasteland. In between these two hellscapes lies a slice of land where liquid water and dark gray islands exist that could be habitable for life if one doesn’t mind the lack of nitrogen and the weird smell in the oxygenated air.
@@ -90,7 +90,7 @@ Argus
 This planet is a global desert, filled with large dunes and lakes of hydrocarbons. It also has a ring system, though is made of dust and is quite thin. But one can see it with their naked eye. While there is no oxygen, the surface temperature is surprisingly warm, at an average of 32.3°C (90°F) during the nineteen hour long day.
 
 	Menlay
-This moon’s reason for existence is quite a mystery. Its orbit is too typical to suggest being captured, but it has almost zero relation in similarity to Argus. It’s also tidally locked, making the mystery of why this satellite is here today even more puzzling.
+	This moon’s reason for existence is quite a mystery. Its orbit is too typical to suggest being 		captured, but it has almost zero relation in similarity to Argus. It’s also tidally locked, 		making the mystery of why this satellite is here today even more puzzling.
 
 Bonda-Wanda
 These two similarly sized worlds are in a binary orbit around each other, orbiting a point of gravity outside either body. Bonda, a blue minor planet, is made of ice. Wanda, on the other hand, is a rocky minor planet, suggesting these two worlds didn’t form near each other in their beginnings.
@@ -107,13 +107,13 @@ Skroob
 This massive world larger than Earth is an ice giant, similar to Uranus or Neptune. With green turbulent storms, and no ring system, this world is quite slow to rotate, taking a good 41 hours to complete one day. There is no solid surface on this world, but scientists think there might be a small solid core deep inside the planet.
 
 	Ria
-As a satellite around the planet Skroob, Ria is one of the most promising candidates for finding extraterrestrial life outside of the Solar System, even though there’s no sign of plant life and the air and water is very cold, with an average temperature of 2°C (35.6°F) during the warmest day.
+	As a satellite around the planet Skroob, Ria is one of the most promising candidates for finding 	extraterrestrial life outside of the Solar System, even though there’s no sign of plant life and 	the air and water is very cold, with an average temperature of 2°C (35.6°F) during the day.
 
 	Noynac
-This smaller moon has no atmosphere, but is very blue in color. Scientists have no idea why, but when they discovered this world there were claims of cliffs that reached 70km (43.5mi) tall. This has now been disputed after further studies, but the name already stuck and got approved.
+	This smaller moon has no atmosphere, but is very blue in color. Scientists have no idea why, but 	when they discovered this world there were claims of cliffs that reached 70km (43.5mi) tall. 		This has now been disputed after further studies, but the name already stuck and got approved.
 
 	Stone-Casani
-The farthest and smallest moon orbiting around Skroob. Of all the celestial bodies in the Gravita system, this one spins the fastest, at only 2 hours and 36 minutes per rotation.
+	The farthest and smallest moon orbiting around Skroob. Of all the celestial bodies in the 			Gravita system, this one spins the fastest, at only 2 hours and 36 minutes per rotation.
 
 Roland
 Roland is a Trojan asteroid, orbiting the same path as Skroob. Other than that, little is known about this tiny world, as getting there is difficult without a very high gravity well or sphere of influence
