@@ -1,0 +1,119 @@
+GRAVITA SYSTEM INFO
+
+Basic information about every celestial object added in SFS’s Gravita System
+
+Includes:
+	⁃	1 Black Hole
+	⁃	3 Stars
+	⁃	1 Brown Dwarf
+	⁃	14 Planets
+	⁃	10 Moons
+	⁃	4 Minor Planets
+	⁃	1 Comet
+
+LOCAL SYSTEM
+
+Gravita
+The black hole at the center of the Gravita system. Name partially inspired by Gargantua.
+
+Parel
+A super earth with no solid surface, due to the global ocean of water covering it all. It’s also the closest planet to the black hole, making it not only the hardest to get to and return from, but to land and take off, with its beefy atmosphere.
+
+Alani
+A shattered lava planet that’s been tortured over and over by debris from being near Gravita for a long time. Possibly a billion years. It’s not easy to land here due to most of it being molten lava.
+
+Farko
+A rocky planet near Gravita with lots of ridges and craters. It’s likely the oldest object in the Gravita system, nearing 7 billion years old. Landing and returning from here is easier than Parel, but it’s gravity might be a bit of a challenge, especially since planets near Gravita take like a hundred thousand meters a second of delta v for round trips.
+
+Echo
+An ammonia-snow world with a thin atmosphere. It’s unknown why the ammonia or the snowstorms even exist, but scientists definitely know it’s not a good habitable planet, due to the atmosphere having a dangerous amount of ammonia, and temperatures dropping to -190°C (-310°F)
+
+Moc
+It’s not as hard to get there as some of the other planets near the black hole, especially being the only one direct around it with it’s own moon Darty, but the surface is full of icky gumbo and mud, even though there is no atmosphere. We are unsure why.
+
+	Darty
+A small asteroid moon that orbits Moc. Not much is known about this little potato world, but there is a chance it may have been captured around Moc in its early days and slowly settled into a relatively circular orbit it has today.
+
+Teel
+Teel is a rouge planet far from any of the other star systems. Nobody knows why it’s there, or how it got there, but scientists found out its orbit takes exactly 1,337 years to complete. When “Leet” got rejected by the IAU, they found a loophole to name it “Teel”, so they could still have it named after some sort of meme.
+
+ECARG SYSTEM
+
+Ecarg
+As a red dwarf star, it emits very little light. But it will last a lot longer than main sequence stars do, possibly nearing a trillion years. It has a companion brown dwarf star called Yk’cor. Although, nobody knows the real reason why it’s near the black hole, it’s become a debate throughout the scientific community.
+
+Maven
+In between Ecarg and Yk’cor, is a lava world called Maven. Little is known other than it lies so close to either star that it is basically lava all over, with several islands and peaks making it possible to land. It takes a lot of fuel to get to here, so this place is not recommended for travel. Named after the loss of NASA’s MAVEN Mars orbiter.
+
+Yk’cor
+A brown dwarf star, barely even a star at all. With almost no light emitted, there is no chance of finding an Earth-like planet here, or even any planet, as Ecarg tears away any that Yk’cor would have.
+
+Temoca
+A comet. That’s literally all it is. Just a comet. It orbits around Ecarg beyond Yk’cor’s orbit and is slowly getting torn apart by both stars.
+
+OPWA
+It stands for Oversized Planet With Auroras. It’s a large purple exotic planet with lakes and seas of some unknown compound, and a thick atmosphere of the same unknown stuff. It rotates once in just over seventy hours, or a little under three days. Anybody living on this planet must be a long sleeper and must have a long work schedule.
+
+	Minerva
+Minerva is a small asteroid moon sharing a similar orbit with Tideland. It is tidally locked to OPWA, meaning only one side faces the planet. Studies suggest this moon used to be part of another planet before something happened. What happened? We don’t know
+
+	Tideland
+This tiny potato moon shares a similar orbit with Minerva. However, unlike its neighbor, it is not tidally locked, and spins chaotically. This suggests the moons are not from the same region or era. In fact, Tideland is likely a captured fragment from another solar system many light years away, that wandered here after being ejected a long, long time ago.
+
+Bej
+This minor planet seems out of place. Since there have been no orbits that cross its path so far, this would’ve been a planet if not for its shape, as it actually has a clear path. It’s also tiny, so getting there would be tricky and need precise maneuvers.
+
+NUSEKAF SYSTEM
+
+Nusekaf
+An orange-yellow dwarf star that’s slightly smaller and dimmer than the Sun. It orbits between two other stars around Gravita. Scientists estimate it’s between 85% to 90% similar to the Sun, hence the name. (that was suggested by Australians)
+
+Hale
+As a Hot Jupiter, this planet is being torn up by how close it is to Nusekaf. Poor thing is losing its atmosphere, and will eventually turn to nothing.
+
+Khloa
+This world is a gas giant with no solid surface. With reddish cloud tops and its ring system, we wouldn’t say it’s as iconic as Saturn’s, but it looks cool! It also has several interesting moons around it, and it spins once in less than 6 hours.
+
+	Nomen
+Nomen is a tiny shepherd moon, that keeps the rings of Khloa stable for long periods of time. This explains why the moon looks orange colored, which is unusual for a moon this size. It’s actually slowly falling into Khloa, just like Phobos is to Mars, and, one day far in the future, will either crash into Khloa or break apart by tidal forces.
+
+ 	Dracip
+This unusual moon may be small, but it packs quite a thick atmosphere for its size. With green haze covering the entire moon, just like Titan’s around Saturn, nobody knew what the moon looked like until somebody shouted “Hey, let’s turn on Infrared!” and now everyone know’s the surface composition and features and etc.
+
+	Lovell
+Christened after the legendary Jim Lovell (1928-2025), this large moon is useful for capturing around Khloa via gravity assist for cheap. The large mass and lack of an atmosphere makes it hard to land and return from though. Make sure to take a lot of fuel with you.
+
+Chimera
+As an eyeball planet, one side of this world is permanently faced towards Nusekaf, hence the extreme deserts. The nightside is locked to being a dark frozen wasteland. In between these two hellscapes lies a slice of land where liquid water and dark gray islands exist that could be habitable for life if one doesn’t mind the lack of nitrogen and the weird smell in the oxygenated air.
+
+Argus
+This planet is a global desert, filled with large dunes and lakes of hydrocarbons. It also has a ring system, though is made of dust and is quite thin. But one can see it with their naked eye. While there is no oxygen, the surface temperature is surprisingly warm, at an average of 32.3°C (90°F) during the nineteen hour long day.
+
+	Menlay
+This moon’s reason for existence is quite a mystery. Its orbit is too typical to suggest being captured, but it has almost zero relation in similarity to Argus. It’s also tidally locked, making the mystery of why this satellite is here today even more puzzling.
+
+Bonda-Wanda
+These two similarly sized worlds are in a binary orbit around each other, orbiting a point of gravity outside either body. Bonda, a blue minor planet, is made of ice. Wanda, on the other hand, is a rocky minor planet, suggesting these two worlds didn’t form near each other in their beginnings.
+
+OPPORTUNITY SYSTEM
+
+Opportunity
+This blue giant star is nearing the end of its main sequence phase, with experts predicting it will turn into a red supergiant star within the next 5-10 million years. It’s also very bright, easily visible from light years away. Named in honor of NASA’s long-lasting Opportunity Mars rover, which is expected to be beat in mission length by Curiosity by late December 2026.
+
+Acirema
+This planet is very interesting as there are remnants of what seems to be liquid kerosene on the surface, suggesting either it got stripped away by an atmospheric loss or USA military ships already beat the discoverers of this world to getting here.
+
+Skroob
+This massive world larger than Earth is an ice giant, similar to Uranus or Neptune. With green turbulent storms, and no ring system, this world is quite slow to rotate, taking a good 41 hours to complete one day. There is no solid surface on this world, but scientists think there might be a small solid core deep inside the planet.
+
+	Ria
+As a satellite around the planet Skroob, Ria is one of the most promising candidates for finding extraterrestrial life outside of the Solar System, even though there’s no sign of plant life and the air and water is very cold, with an average temperature of 2°C (35.6°F) during the warmest day.
+
+	Noynac
+This smaller moon has no atmosphere, but is very blue in color. Scientists have no idea why, but when they discovered this world there were claims of cliffs that reached 70km (43.5mi) tall. This has now been disputed after further studies, but the name already stuck and got approved.
+
+	Stone-Casani
+The farthest and smallest moon orbiting around Skroob. Of all the celestial bodies in the Gravita system, this one spins the fastest, at only 2 hours and 36 minutes per rotation.
+
+Roland
+Roland is a Trojan asteroid, orbiting the same path as Skroob. Other than that, little is known about this tiny world, as getting there is difficult without a very high gravity well or sphere of influence
